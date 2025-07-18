@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**BuzzTrack 2024** is a software project designed to track and analyze trends in social media and online platforms. The application aims to provide users with insights into popular topics, user engagement, and content performance.
+**BuzzTrack 2024** is a Internet of Things software application.
 
 ## Features
 
